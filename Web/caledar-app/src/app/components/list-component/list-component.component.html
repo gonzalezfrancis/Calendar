@@ -1,0 +1,17 @@
+<br>
+<h4 class="text-center">Today Appointments</h4>
+<div class="row">
+  <div class="col col-md-offset-1 col-md-8 text-center">
+    <ul class="list-group" *ngFor="let item of appointments; trackBy: trackItem">
+      <li class="list-group-item" value="{{item.Id}}" (click)="onSelect(item)">{{item.summary}} - {{item.startDate}}</li>
+    </ul>
+</div>
+<div class="col col-md-2 text-center">
+    <div class="row" *ngFor="let item of appointments">
+      
+      <a class="btn btn-warning" (click)="onSelectEdit(item)">Edit</a>&nbsp;
+      <a class="btn btn-danger" (click)="onSelectDelete(item)">Delete</a>
+   
+    </div>
+</div>
+</div>

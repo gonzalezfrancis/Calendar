@@ -1,0 +1,14 @@
+D:\PersonalProjects\Calendar\WebApi\UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\PersonalProjects\Calendar\WebApi\UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\PersonalProjects\Calendar\WebApi\UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\PersonalProjects\Calendar\WebApi\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.deps.json
+D:\PersonalProjects\Calendar\WebApi\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.runtimeconfig.json
+D:\PersonalProjects\Calendar\WebApi\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.runtimeconfig.dev.json
+D:\PersonalProjects\Calendar\WebApi\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.dll
+D:\PersonalProjects\Calendar\WebApi\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.pdb
+D:\PersonalProjects\Calendar\WebApi\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csprojAssemblyReference.cache
+D:\PersonalProjects\Calendar\WebApi\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csproj.CoreCompileInputs.cache
+D:\PersonalProjects\Calendar\WebApi\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.AssemblyInfoInputs.cache
+D:\PersonalProjects\Calendar\WebApi\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.AssemblyInfo.cs
+D:\PersonalProjects\Calendar\WebApi\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.dll
+D:\PersonalProjects\Calendar\WebApi\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.pdb

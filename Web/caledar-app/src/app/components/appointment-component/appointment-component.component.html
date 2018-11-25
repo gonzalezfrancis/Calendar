@@ -1,0 +1,29 @@
+<br>
+      <div class="form-group">
+        <label for="title" class="control-label">Summary</label>
+        <input type="text" class="form-control" id="title" [(ngModel)]="appointment.summary" placeholder="Summary" maxlength="255" minlength="2" required>
+        <!--<div *ngIf="title.errors && (title.dirty || title.touched)" class="help-block with-errors">Summary has to be less than 255 and more than 5 characters</div>-->
+      </div>
+
+      <div class="form-group">
+        <label for="location">Location</label>
+        <input id="location" maxlength="255" [(ngModel)]="appointment.location" class="form-control" required>
+        <p class="help-block with-errors">Location has to be less than 255 and more than 5 characters</p>
+      </div>
+      <label for="startDate">Start Date</label>
+      <div class="input-group" data-provide="datepicker">
+        <input type="date" class="form-control" id="startDate" [(ngModel)]="appointment.startDate" required>
+        <p id="startDateValidation" class="help-block with-errors">Start date has to be sooner that end date</p>
+       
+      </div>
+      <label for="endDate">End Date</label>
+      <div class="input-group" data-provide="datepicker">
+        <input type="date" class="form-control" id="endDate" [(ngModel)]="appointment.endDate" required>
+        <p id="endDateValidation" class="help-block text-warning">End date has to be later that start date</p>
+      </div>
+
+
+  <div class="col col-md-offset-1 col-md-10 text-center">
+    <a type="button" class="btn btn-success" (click)="addAppointment()">Add Appointment</a>
+  </div>
+

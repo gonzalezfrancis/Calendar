@@ -1,0 +1,13 @@
+<app-my-calendar-component (selectedDateEvent)="eventUpdateDate($event)"></app-my-calendar-component>
+<div class="row">
+  <div class="col-md-6">
+    <app-list-component (refreshCalendarEvent)="refreshCalendarEvent($event)"></app-list-component>
+  </div>
+  <div class="col-md-6">
+    <app-appointment-component></app-appointment-component>
+  </div>
+</div>
+
+
+
+

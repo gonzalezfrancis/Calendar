@@ -1,0 +1,11 @@
+D:\PersonalProjects\Calendar\WebApi\Database\bin\Debug\netcoreapp2.1\Database.deps.json
+D:\PersonalProjects\Calendar\WebApi\Database\bin\Debug\netcoreapp2.1\Database.dll
+D:\PersonalProjects\Calendar\WebApi\Database\bin\Debug\netcoreapp2.1\Database.pdb
+D:\PersonalProjects\Calendar\WebApi\Database\obj\Debug\netcoreapp2.1\Database.csprojAssemblyReference.cache
+D:\PersonalProjects\Calendar\WebApi\Database\obj\Debug\netcoreapp2.1\Database.csproj.CoreCompileInputs.cache
+D:\PersonalProjects\Calendar\WebApi\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfoInputs.cache
+D:\PersonalProjects\Calendar\WebApi\Database\obj\Debug\netcoreapp2.1\Database.AssemblyInfo.cs
+D:\PersonalProjects\Calendar\WebApi\Database\obj\Debug\netcoreapp2.1\Database.dll
+D:\PersonalProjects\Calendar\WebApi\Database\obj\Debug\netcoreapp2.1\Database.pdb
+D:\PersonalProjects\Calendar\WebApi\Database\bin\Debug\netcoreapp2.1\Database.runtimeconfig.json
+D:\PersonalProjects\Calendar\WebApi\Database\bin\Debug\netcoreapp2.1\Database.runtimeconfig.dev.json

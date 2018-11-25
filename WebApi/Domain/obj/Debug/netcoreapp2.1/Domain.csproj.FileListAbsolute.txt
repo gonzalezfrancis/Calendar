@@ -1,0 +1,14 @@
+D:\PersonalProjects\Calendar\WebApi\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CoreCompileInputs.cache
+D:\PersonalProjects\Calendar\WebApi\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
+D:\PersonalProjects\Calendar\WebApi\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
+D:\PersonalProjects\Calendar\WebApi\Domain\bin\Debug\netcoreapp2.1\Domain.deps.json
+D:\PersonalProjects\Calendar\WebApi\Domain\bin\Debug\netcoreapp2.1\Domain.dll
+D:\PersonalProjects\Calendar\WebApi\Domain\bin\Debug\netcoreapp2.1\Domain.pdb
+D:\PersonalProjects\Calendar\WebApi\Domain\bin\Debug\netcoreapp2.1\Database.dll
+D:\PersonalProjects\Calendar\WebApi\Domain\bin\Debug\netcoreapp2.1\Database.pdb
+D:\PersonalProjects\Calendar\WebApi\Domain\obj\Debug\netcoreapp2.1\Domain.csprojAssemblyReference.cache
+D:\PersonalProjects\Calendar\WebApi\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CopyComplete
+D:\PersonalProjects\Calendar\WebApi\Domain\obj\Debug\netcoreapp2.1\Domain.dll
+D:\PersonalProjects\Calendar\WebApi\Domain\obj\Debug\netcoreapp2.1\Domain.pdb
+D:\PersonalProjects\Calendar\WebApi\Domain\bin\Debug\netcoreapp2.1\Domain.runtimeconfig.json
+D:\PersonalProjects\Calendar\WebApi\Domain\bin\Debug\netcoreapp2.1\Domain.runtimeconfig.dev.json
